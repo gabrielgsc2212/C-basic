@@ -1,3 +1,5 @@
+//2. Faca um programa que leia um numero real e o imprima. 
+
 #include <stdlib.h>
 #include <stdio.h>
 
